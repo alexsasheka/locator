@@ -1,0 +1,31 @@
+{
+  "name": "locator",
+  "version": "1.0.0",
+  "description": "Finds the country of origin of the incoming request.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexsasheka/locator.git"
+  },
+  "keywords": [
+    "ip",
+    "geo",
+    "country"
+  ],
+  "author": "Aleksandr Biriukov <albir@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexsasheka/locator/issues"
+  },
+  "homepage": "https://github.com/alexsasheka/locator#readme",
+  "devDependencies": {
+    "eslint": "^8.16.0",
+    "typescript": "^4.7.2"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
